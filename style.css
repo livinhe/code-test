@@ -1,5 +1,7 @@
 body {
-  padding: 400px;
+  display: flex;
+  padding: 350px 0;
+  justify-content: center;
 }
 
 .botao {
